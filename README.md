@@ -68,24 +68,24 @@ The features include application name, category, rating, rating count, installs,
 
 **PCA Visualization of Clusters**
 
-![PCA Clusters](results/clustering.png)
+![PCA Clusters](result/clustering.png)
 
 **Hierarchical Clustering (Dendrogram)**
 
-![Dendrogram](results/hierarchical.png)
+![Dendrogram](result/hierarchical.png)
 
 ### Classification Evaluation
 
 **Confusion Matrix – Best Model**
 
-![Best Model](results/bestmodel.png)
+![Best Model](result/bestmodel.png)
 
 **Evaluation of the Best Model**
 
-![Evaluation](results/evaluation.png)
+![Evaluation](result/evaluation.png)
 
 ### Association Rules
 
 **Top Frequent Patterns**
 
-![Frequent Patterns](results/frequentPatterns.png)
+![Frequent Patterns](result/frequentPatterns.png)
